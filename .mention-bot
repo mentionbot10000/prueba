@@ -1,3 +1,9 @@
 {
-"message": "@pullRequester, gracias! @reviewers, revisad esto."
+  "maxReviewers": 3,
+  "userBlacklist": [],
+  "fileBlacklist": [],
+  "requiredOrgs": [],
+  "numFilesToCheck": 5,
+  "findPotentialReviewers": true,
+  "message": "@pullRequester, gracias! @reviewers, revisad esto."
 }
