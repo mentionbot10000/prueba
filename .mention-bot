@@ -3,5 +3,5 @@
   "userBlacklist": [],
   "numFilesToCheck": 5,
   "findPotentialReviewers": true,
-  "message": "@pullRequester, gracias! @reviewers, revisad esto."
+  "message": "@pullRequester, gracias! @reviewers, revisad esto. MODIFICADO"
 }
